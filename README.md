@@ -4,6 +4,5 @@
 
 Algoritmos da Algpédia implementados em JavaScript
 
-[Ordenação](./Ordenacao)
-
-[Testes](./Testes)
+- [Ordenação](./Ordenacao)
+- [Testes](./Testes)
