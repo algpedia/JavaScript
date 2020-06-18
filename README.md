@@ -4,6 +4,6 @@
 
 Algoritmos da Algpédia implementados em JavaScript
 
-[Ordenação](https://github.com/Algpedia/JavaScript/ordenacao)
+[Ordenação](https://github.com/Algpedia/JavaScript/tree/master/Ordenacao)
 
-[Testes](https://github.com/Algpedia/JavaScript/testes)
+[Testes](https://github.com/Algpedia/JavaScript/tree/master/Testes)

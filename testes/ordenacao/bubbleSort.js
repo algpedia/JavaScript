@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const bubbleSort = require('../../ordenacao/bubbleSort');
+const bubbleSort = require('../../Ordenacao/bubbleSort');
 
 describe('Ordenação', function () {
   describe('BubbleSort', function () {
