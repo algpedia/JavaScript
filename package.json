@@ -1,0 +1,22 @@
+{
+  "name": "algpedia",
+  "version": "1.0.0",
+  "description": "Algoritmos implementados em JavaScript com fins de estudo",
+  "scripts": {
+    "test": "mocha --recursive testes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Algpedia/JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Algpedia/JavaScript/issues"
+  },
+  "homepage": "https://github.com/Algpedia/JavaScript#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
