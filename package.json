@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Algoritmos implementados em JavaScript com fins de estudo",
   "scripts": {
-    "test": "mocha --recursive testes"
+    "test": "mocha --recursive Testes"
   },
   "repository": {
     "type": "git",
