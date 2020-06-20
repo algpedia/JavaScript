@@ -4,5 +4,6 @@
 
 Algoritmos da Algpédia implementados em JavaScript
 
+- [Busca](./Busca)
 - [Ordenação](./Ordenacao)
 - [Testes](./Testes)
