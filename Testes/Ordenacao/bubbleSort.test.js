@@ -27,4 +27,4 @@ describe('Ordenação', function () {
       expect(input).to.eql([]);
     });
   });
-})
+});
